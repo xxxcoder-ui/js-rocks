@@ -2,10 +2,6 @@
 
 JS Rocks - Web Audio electric guitar effects and cabinets.
 
-## Try it now ➡ [js-rocks.web.app](https://js-rocks.web.app)
-
-[![Build Status](https://travis-ci.org/vitaliy-bobrov/js-rocks.svg?branch=main)](https://travis-ci.org/vitaliy-bobrov/js-rocks) ![GitHub](https://img.shields.io/github/license/vitaliy-bobrov/js-rocks)
-
 ![](https://github.com/vitaliy-bobrov/js-rocks/blob/main/src/assets/og-image.jpg)
 
 ## Available stompboxes 🎸
